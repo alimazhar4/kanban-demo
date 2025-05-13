@@ -7,14 +7,8 @@ A demo implementation of a responsive Kanban board built using **Next.js 15**, *
 ## 🚀 Features
 
 - 📌 Task organization with drag-and-drop (`@hello-pangea/dnd`)
-- 🎨 Beautiful UI components via **Radix UI**, **Lucide Icons**, **Tailwind CSS**
+- 🎨 UI components via **Radix UI**, **Lucide Icons**, **Tailwind CSS**
 - 📱 Responsive design with utility-first CSS (Tailwind)
-- 🔄 Theming with `next-themes`
-- 🔧 Forms powered by `react-hook-form` and `zod`
-- 🍞 Toast notifications using `sonner`
-- 📆 Date handling with `date-fns`
-- 📊 Chart integration with `recharts`
-- 🧩 Modular and reusable components
 
 ---
 
